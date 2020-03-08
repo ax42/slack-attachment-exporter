@@ -12,5 +12,6 @@ Usage:
   * Requires at least Python 3.6
   * Requires Slacker https://github.com/os/slacker
   * Doesn't paginate its calls (so if your channel has > 1000 files it won't download them all)
+  * Also doesn't do throttling or other niceties
 
 PRs welcome if you would like to improve this.
